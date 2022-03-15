@@ -32,3 +32,4 @@
 ||wochenblick.at^
 ||zeit.de^
 ||zuerst.de^
+||uncutnews.ch^
