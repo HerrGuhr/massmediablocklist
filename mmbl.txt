@@ -33,3 +33,4 @@
 ||zeit.de^
 ||zuerst.de^
 ||uncutnews.ch^
+||temu.com^
